@@ -77,9 +77,3 @@ This fork adds full Docker support for easy setup, testing, and portability.
   - Use a production-ready WSGI server.
   - Configure environment variables and database security.
 
----
-
-## 📄 License & Attribution
-
-- Original project: [pj8912/todo-app](https://github.com/pj8912/todo-app)
-- Dockerized and maintained by: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
