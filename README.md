@@ -2,8 +2,7 @@
 
 This is a simple To-Do web application built using **Flask** and containerized with **Docker**.
 
-It provides basic task management with a Jinja2-rendered UI.  
-This fork adds full Docker support for easy setup, testing, and portability.
+This is a simple Todo application built using Python and SQLite. The application allows users to add, view, and delete tasks. The data is stored in a SQLite database and the front-end is rendered using the Jinja2 template engine.
 
 ---
 
